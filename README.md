@@ -1,2 +1,1 @@
-# Python_mini_prj
-# Python_mini_prj
+This is my mini project of a grocery bill using loops, functions, dictionaries in python.
